@@ -35,7 +35,7 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 19px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -53,6 +53,12 @@
 .u-section-1 .u-btn-3 {
   background-image: none;
   font-weight: 700;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  color: rgba(0, 0, 0, 0);
   padding: 0;
 }
 
